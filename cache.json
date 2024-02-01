@@ -1,0 +1,98 @@
+{
+  "program": {
+    "candyMachine": "8nRA4vGbBMziKuuLPgyGL3AJCm6euSGxLGW78eEdGj5V",
+    "candyGuard": "",
+    "candyMachineCreator": "AjgZvkayRs62U6NLbFA4gNhP7LibnFUvQjy61LC8kZhr",
+    "collectionMint": "CKW9dkSkFJA6oiWrkrUQ7BiPhmrpov6pHBx4EQftBNi4"
+  },
+  "items": {
+    "-1": {
+      "name": "Axolotes Mexicanos",
+      "image_hash": "7a48c8bf732b97a026096bacff70bcd70b17330186b1d1458cc517a241a0d2ef",
+      "image_link": "https://arweave.net/G-eKbPL82TDQutEjpH5SNLKOYh3xz0t2GYRgKW7mElM?ext=png",
+      "metadata_hash": "16909946571f14cdd5d8933974cec2e1b054cdac49636447d6079deef71e5815",
+      "metadata_link": "https://arweave.net/ybD3USpq2SYcbLTe75cVbAIoE5DYJdQEArY2h8cshHQ",
+      "onChain": true
+    },
+    "0": {
+      "name": "Muertos",
+      "image_hash": "93947ad768f09d381f259baa744d90253408d41026ab63d4e8fe6bed96461cd5",
+      "image_link": "https://arweave.net/kfU-p7Xyx2xwJng25BQkD8co-EPAqEX6Ujz4aTMnVEU?ext=png",
+      "metadata_hash": "c9781dac034d8d94ddfad1f928b155e78eb6b5df4b9fd18f68844982bf075283",
+      "metadata_link": "https://arweave.net/23b4KiGWmY44dl5x-YntfEusT_MWx32FEWPNSm2_uG4",
+      "onChain": true
+    },
+    "1": {
+      "name": "Mariachi",
+      "image_hash": "8ec326e2374e62f63d96d6356a8899c8e61d786b3d256b93a78dfed85fe556f8",
+      "image_link": "https://arweave.net/_sovim6ztYJ7TPRVDIJiufkHatZ6NBvNVQ7tJnEy6YQ?ext=png",
+      "metadata_hash": "f48a4d9ac368f336778d5aeb7cc81857a2530248ebc37f49817b0898318e54aa",
+      "metadata_link": "https://arweave.net/LDL4aYKQlnBDlYJpSVE19pzuW8QF39W965viY5r6o5I",
+      "onChain": true
+    },
+    "2": {
+      "name": "Taco",
+      "image_hash": "29c24baba892d36accaf4373cb4577984a79bbbe86d43a44da0ea77229654887",
+      "image_link": "https://arweave.net/FXj8ycoXl9kAtO1PX8LXZ5jtL0cpuybtV8XW5k4t8qg?ext=png",
+      "metadata_hash": "b154729cddf6d5f2e15d5e61cafc36596b07e16ca9b02ad7c5aff0a2c31566f0",
+      "metadata_link": "https://arweave.net/u7cPGaqpgRsc45HlUK_prJjinjhLZGc3ATiUa-qA7TI",
+      "onChain": true
+    },
+    "3": {
+      "name": "Navidad",
+      "image_hash": "7068a00a9d68d35b8905b79468820333aac1cf6e59cdd94e5c3622745f164669",
+      "image_link": "https://arweave.net/yZUp7PV-m1obPqqAEltiXzr8SlPTQmP5C1Fud9GULms?ext=png",
+      "metadata_hash": "edd5b701ffadc8211e770a213e891541c27d1f27d54ad3452d442e6d1fe87eec",
+      "metadata_link": "https://arweave.net/5d4qqWsjTlOB7pTZk8VTRZ7z03mMU99ZyIDVLnmlg7o",
+      "onChain": true
+    },
+    "4": {
+      "name": "Piramide",
+      "image_hash": "05eebbf2e5d926ecc321bc2611983b47d9166258334ba53e51c8f6705a45e1e0",
+      "image_link": "https://arweave.net/maU12y1Q2dBzlUli6iqHxBN0Q4CWWnbqHJpBeY9QzLs?ext=png",
+      "metadata_hash": "1139ee088ae28f49523d5112f6d515d5881a33c9ff54afd1a94daa850e09ca2e",
+      "metadata_link": "https://arweave.net/HrjLN03u0fJc_GlCqxeeiAM9swl_VviZrbyfNLb3aJc",
+      "onChain": true
+    },
+    "5": {
+      "name": "Angel",
+      "image_hash": "10ce149b186afaff507301a70f92c514bd219a5ceaede98e6459950ce054e165",
+      "image_link": "https://arweave.net/tXwn-qMDfcXmE65c0h9tXbfJjWBv315JWxoffJu3F3E?ext=png",
+      "metadata_hash": "be1f1cbaae79bf523a53440f1aa2c24285987835bc7edd0a6bc2f420fc25a7b1",
+      "metadata_link": "https://arweave.net/z7j2jmGnCGRhJZa2JR_YFhBMqsHINF2kHy1MqOk4kKY",
+      "onChain": true
+    },
+    "6": {
+      "name": "Revolucion",
+      "image_hash": "44a1baea8a20b9fe435c2866e00383f581ab075b3d9b2f7fa006ed8ec113ff8b",
+      "image_link": "https://arweave.net/NoRitNzpzINT8OmjRqJlfzvdsur1-GK5RGfj0WAuNAM?ext=png",
+      "metadata_hash": "be1cd8197b542c517750810f4323d008aedf62f7c3aa62a31e8087164ef4696b",
+      "metadata_link": "https://arweave.net/z0dML71lcd_zbXwDurtDE3RLJ6qL3KTJQpH4_e-L4Lg",
+      "onChain": true
+    },
+    "7": {
+      "name": "Maya",
+      "image_hash": "c1bee8db8ba15972db44bcf16463ace9ca6a3594701a6ce51affa601be2ff81b",
+      "image_link": "https://arweave.net/_IuQD9hyZGO-99QUI95ewjeLC3I40gWk5AMCc24d7ew?ext=png",
+      "metadata_hash": "1ee75d70dcb3677d7e11bf0aebc0c3415a1fd073be7c2ef20d11970b448f5b90",
+      "metadata_link": "https://arweave.net/B1Ar0sCUJAGL6pGuKxA6wZaDyz_5o345z9w_E8g1aMA",
+      "onChain": true
+    },
+    "8": {
+      "name": "Xochi",
+      "image_hash": "5737b72465fd8d19e11512cd94b87d4f2b3898a30377a3c1f302e5b8820764cc",
+      "image_link": "https://arweave.net/wljiPcy-QCN_k8N6-1GPagGkO7f_y1Vl1zGfbPNE0Gk?ext=png",
+      "metadata_hash": "b9c7210fd90f132041ad472677404397d437ae5c2a7dfbfd7ff6dffaba26438b",
+      "metadata_link": "https://arweave.net/oU4-mXT0gsmXakCRcROXbg8G_MrlJPFA3ci-tqdPrf4",
+      "onChain": true
+    },
+    "9": {
+      "name": "Acapulco",
+      "image_hash": "e79e5674c8356b90dc988589735d5f21988374ed96c5d2a64ecf34e5020cb310",
+      "image_link": "https://arweave.net/LHp-68SAdSRUnmF77UkIp17tGxDB357dHxU2G3azzKw?ext=png",
+      "metadata_hash": "82c6ab7a1bbe1a21769449fdbd4800b6a4953156df00339c276531bc5477ef63",
+      "metadata_link": "https://arweave.net/WDsKRjPg_cL0A18oGJOCl4f9GYAOE4us-hvUZ8_gTPs",
+      "onChain": true
+    }
+  }
+}
